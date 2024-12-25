@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": 1,
+    "cardName": "Elf",
+    "cardDamage": 10,
+    "description": "this is elf's card",
+    "imageLink": "",
+    "cardType": "demage"
+  },
+  {
+    "id": 2,
+    "cardName": "Dworf",
+    "cardDamage": 15,
+    "description": "this is dworf's card",
+    "imageLink": "",
+    "cardType": "demage"
+  },
+  {
+    "id": 3,
+    "cardName": "Witcher",
+    "cardDamage": 5,
+    "description": "this is witcher's card",
+    "imageLink": "",
+    "cardType": "heal"
+  }
+]
